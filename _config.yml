@@ -45,9 +45,9 @@ c4sponsorsUrl: "/assets/partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Noticias"}
- - {permalink: "/schedule/", text: "Programa"}
- - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Organizadores"}
+# - {permalink: "/schedule/", text: "Programa"}
+# - {permalink: "/speakers/", text: "Ponentes"}
+# - {permalink: "/team/", text: "Organizadores"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
 rightNavigationButtons:
@@ -55,9 +55,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "IO Extended Madrid 2016"
+heroTitle: "I/O Extended Madrid 201"
 eventDate: "18 Mayo 2016"
-typeoutTextValues: '"", "", "", "", ""'
+typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
  - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
@@ -114,7 +114,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Estate atento"
+tweetsFeedTitle: "Sigue el evento"
 twitterHashTag: "io16"
 twitterFeed: "https://twitter.com/search?src=typd&q=%23io16"
 
@@ -127,12 +127,7 @@ partnersC4sponsorsButton: "Ser sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Suscríbete para novedades"
 subscribeAction: ""
-subscribeInfo: "Abriremos pronto la inscripción ¡no pierdas detalle!"
-
-# Tickets Block
-ticketsTitle: ""
-ticketsInfo: ""
-ticketsOffers:
+subscribeInfo: ""
 
 
 # Footer
