@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre I/O Extended Madrid"
 aboutBlock:
- - {title: "Networking", image: "conference.jpg", text: "La hora anterior a la keynote, diversas comunidades vendrán a contarnos qué hacen" }
- - {title: "Keynote", image: "workshop.jpg", text: "En el mejor ambiente, veremos la keynote de Google, el evento donde anuncian todas sus novedades" }
- - {title: "Charlas", image: "hackathon.jpg", text: "Tendremos las charlas técnicas más interesantes para mantenerte al día de todo" }
+ - {title: "Networking", image: "networking.jpg", text: "La hora anterior a la keynote, diversas comunidades vendrán a contarnos qué hacen" }
+ - {title: "Keynote", image: "keynote.jpg", text: "En el mejor ambiente, veremos la keynote de Google, el evento donde anuncian todas sus novedades" }
+ - {title: "Charlas", image: "charlas.jpg", text: "Tendremos las charlas técnicas más interesantes para mantenerte al día de todo" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
