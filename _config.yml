@@ -52,6 +52,7 @@ bottomNavigationLinks:
  - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
 rightNavigationButtons:
  - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
+ - {link: "http://goo.gl/forms/skffji3RX1", text: "Incluir comunidad"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -120,6 +121,12 @@ twitterHashTag: "io16"
 organizersTitle: "Organizadores"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Ser sponsor"
+
+
+# Communities Block
+c4communities: "http://goo.gl/forms/7MUE0d0h3b"
+communitiesC4Button: "Incluir comunidad"
+
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
