@@ -36,9 +36,7 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
-c4pUrl: "http://goo.gl/forms/skffji3RX1"
-c4sponsorsUrl: "/assets/partnership.pdf"
+
 
 
 # Navigation
@@ -120,7 +118,6 @@ twitterHashTag: "io16"
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Ser sponsor"
 
 
 # Communities Block
