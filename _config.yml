@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Noticias"}
 # - {permalink: "/schedule/", text: "Programa"}
 # - {permalink: "/speakers/", text: "Ponentes"}
-# - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/team/", text: "Organizadores"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
 rightNavigationButtons:
@@ -162,8 +162,10 @@ discusShortName: "iomadrid"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "Sobre nosotros"
-aboutUs: "Google Developers Group es una organización que aglutina a todos los GDG de España."
+teamBlockTitle: "Organizadores"
+aboutUs: "Google Developers Group es una organización que aglutina a todos los GDG de España. Para esta ocasión,
+GDGs de varias partes de España se unen para crear un gran evento en la capital del país. En la siguiente sección podrás encontrar a
+qué GDGs pertenece nuestro equipo."
 
 # Logistics Find Way Block
 findWayTitle: "Cómo llegar"
